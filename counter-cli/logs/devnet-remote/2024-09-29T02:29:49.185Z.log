@@ -1,0 +1,23 @@
+{"level":30,"time":1727576993681,"pid":6759,"hostname":"meghas-mbp.dhcp.asu.edu","msg":"Your wallet seed is: 98ac33390c4d7dcd059d37dfa417f2f78434d8699b47e695e7b0d7f661cd6615"}
+{"level":30,"time":1727576993683,"pid":6759,"hostname":"meghas-mbp.dhcp.asu.edu","msg":"Your wallet address is: 78a5ecb647951becb5909e8de70ad22709801d5e2192176edbbaba2f9f3a4961|010001f7c41dfcbac91e9d100336a87827c9dd5d15c24d3975530ee7734c4d19c98663"}
+{"level":30,"time":1727576993684,"pid":6759,"hostname":"meghas-mbp.dhcp.asu.edu","msg":"Your wallet balance is: 0"}
+{"level":30,"time":1727576993684,"pid":6759,"hostname":"meghas-mbp.dhcp.asu.edu","msg":"Waiting to receive tokens..."}
+{"level":30,"time":1727576993687,"pid":6759,"hostname":"meghas-mbp.dhcp.asu.edu","msg":"Wallet scanned 0 blocks out of unknown number, transactions=0"}
+{"level":30,"time":1727577004066,"pid":6759,"hostname":"meghas-mbp.dhcp.asu.edu","msg":"Wallet scanned 1000 blocks out of 33304, transactions=0"}
+{"level":30,"time":1727577014305,"pid":6759,"hostname":"meghas-mbp.dhcp.asu.edu","msg":"Wallet scanned 2150 blocks out of 33304, transactions=0"}
+{"level":30,"time":1727577024584,"pid":6759,"hostname":"meghas-mbp.dhcp.asu.edu","msg":"Wallet scanned 3300 blocks out of 33304, transactions=0"}
+{"level":30,"time":1727577034939,"pid":6759,"hostname":"meghas-mbp.dhcp.asu.edu","msg":"Wallet scanned 4450 blocks out of 33304, transactions=0"}
+{"level":30,"time":1727577045197,"pid":6759,"hostname":"meghas-mbp.dhcp.asu.edu","msg":"Wallet scanned 5600 blocks out of 33304, transactions=0"}
+{"level":30,"time":1727577055394,"pid":6759,"hostname":"meghas-mbp.dhcp.asu.edu","msg":"Wallet scanned 6750 blocks out of 33304, transactions=0"}
+{"level":30,"time":1727577065708,"pid":6759,"hostname":"meghas-mbp.dhcp.asu.edu","msg":"Wallet scanned 7900 blocks out of 33304, transactions=0"}
+{"level":30,"time":1727577076065,"pid":6759,"hostname":"meghas-mbp.dhcp.asu.edu","msg":"Wallet scanned 9050 blocks out of 33304, transactions=0"}
+{"level":30,"time":1727577086608,"pid":6759,"hostname":"meghas-mbp.dhcp.asu.edu","msg":"Wallet scanned 10200 blocks out of 33304, transactions=0"}
+{"level":30,"time":1727577096963,"pid":6759,"hostname":"meghas-mbp.dhcp.asu.edu","msg":"Wallet scanned 11350 blocks out of 33304, transactions=0"}
+{"level":30,"time":1727577107236,"pid":6759,"hostname":"meghas-mbp.dhcp.asu.edu","msg":"Wallet scanned 12500 blocks out of 33307, transactions=0"}
+{"level":30,"time":1727577117635,"pid":6759,"hostname":"meghas-mbp.dhcp.asu.edu","msg":"Wallet scanned 13650 blocks out of 33307, transactions=0"}
+{"level":30,"time":1727577127844,"pid":6759,"hostname":"meghas-mbp.dhcp.asu.edu","msg":"Wallet scanned 14750 blocks out of 33307, transactions=0"}
+{"level":30,"time":1727577138019,"pid":6759,"hostname":"meghas-mbp.dhcp.asu.edu","msg":"Wallet scanned 15900 blocks out of 33307, transactions=0"}
+{"level":30,"time":1727577148222,"pid":6759,"hostname":"meghas-mbp.dhcp.asu.edu","msg":"Wallet scanned 17050 blocks out of 33307, transactions=0"}
+{"level":30,"time":1727577158289,"pid":6759,"hostname":"meghas-mbp.dhcp.asu.edu","msg":"Wallet scanned 18200 blocks out of 33307, transactions=0"}
+{"level":30,"time":1727577168395,"pid":6759,"hostname":"meghas-mbp.dhcp.asu.edu","msg":"Wallet scanned 19350 blocks out of 33307, transactions=0"}
+{"level":30,"time":1727577178456,"pid":6759,"hostname":"meghas-mbp.dhcp.asu.edu","msg":"Wallet scanned 20450 blocks out of 33307, transactions=0"}

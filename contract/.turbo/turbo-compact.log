@@ -1,0 +1,2 @@
+COMPACT_HOME env variable is set; using Compact from /Users/meghasharma/Desktop/sunhacks/compactc-macos
+increment: Uses around 2^5 out of 2^20 constraints (rounded up to the nearest power of two).

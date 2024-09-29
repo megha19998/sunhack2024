@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "seed": "cfd5479c4744538cf604fca15a6bca09ecc47078646c8ebc6308520bb96deb7d",
+      "details": {
+        "address": "4983cccaaadd23ff4336612d90a272d321450e944517a4973165b0f2fae4e521|01000127f6b75b65bc1aafb5573fb1551f9b594e8e0b04f30e9c5dd61b5aaaaf87c215",
+        "transactions": [
+          {
+            "amount": 100,
+            "direction": "credit",
+            "timestamp": 1688195727000,
+            "flag": "Pass"
+          },
+          {
+            "amount": 50,
+            "direction": "credit",
+            "timestamp": 1693379727000,
+            "flag": "Pass"
+          },
+          {
+            "amount": 10,
+            "direction": "debit",
+            "timestamp": 1704179727000,
+            "flag": "Pass"
+          }
+        ]
+      }
+    },
+    {
+      "seed": "987267d9e41f457b472ae4cc78ff2538cb0cd9ecbd904fb18aa9c5f03ac15fde",
+      "details": {
+        "address": "997d49da5388a681e296b353557ad063423c2b690d3c521c916e80753fd33661|01000112c902e926783cf6f504cc00771340b9304254193c88058212594f3987ea2b9b",
+        "transactions": [
+          {
+            "amount": 200,
+            "direction": "credit",
+            "timestamp": 1690874127000,
+            "flag": "Pass"
+          },
+          {
+            "amount": 30,
+            "direction": "credit",
+            "timestamp": 1694416527000,
+            "flag": "Pass"
+          },
+          {
+            "amount": 20,
+            "direction": "debit",
+            "timestamp": 1709363727000,
+            "flag": "Pass"
+          },
+          {
+            "amount": 10,
+            "direction": "credit",
+            "timestamp": 1727604131901
+          },
+          {
+            "amount": 1000,
+            "direction": "debit",
+            "timestamp": 1727604688416
+          },
+          {
+            "amount": 1000,
+            "direction": "credit",
+            "timestamp": 1727604769771
+          }
+        ]
+      }
+    },
+    {
+      "seed": "56bbac4583d4d6facfee0151b431ce5b65803dc37d38034c8727bd07ed262334",
+      "details": {
+        "address": "81b238a1f377c3647a7bc9b416294bf180b3b9794e4bc40dbe70add36faf0729|010001a84fd0388c8dcf25bf4a25714bceaf61e687f7a04762041cb0360aef13dcf4ec",
+        "transactions": [
+          {
+            "amount": 500,
+            "direction": "credit",
+            "timestamp": 1691651727000,
+            "flag": "Pass"
+          },
+          {
+            "amount": 250,
+            "direction": "debit",
+            "timestamp": 1702278927000,
+            "flag": "Pass"
+          },
+          {
+            "amount": 70,
+            "direction": "credit",
+            "timestamp": 1714634127000,
+            "flag": "Pass"
+          },
+          {
+            "amount": 100,
+            "direction": "credit",
+            "timestamp": 1727601334920
+          },
+          {
+            "amount": 100,
+            "direction": "debit",
+            "timestamp": 1727601705245
+          },
+          {
+            "amount": 20,
+            "direction": "credit",
+            "timestamp": 1727601968742
+          },
+          {
+            "amount": 20,
+            "direction": "credit",
+            "timestamp": 1727603743824
+          },
+          {
+            "amount": 10,
+            "direction": "credit",
+            "timestamp": 1727622460810
+          },
+          {
+            "amount": 10,
+            "direction": "credit",
+            "timestamp": 1727626351937
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{"level":30,"time":1727593221485,"pid":13458,"hostname":"Meghas-MacBook-Pro.local","msg":"Your wallet seed is: 56bbac4583d4d6facfee0151b431ce5b65803dc37d38034c8727bd07ed262334"}
+{"level":30,"time":1727593221488,"pid":13458,"hostname":"Meghas-MacBook-Pro.local","msg":"Your wallet address is: 81b238a1f377c3647a7bc9b416294bf180b3b9794e4bc40dbe70add36faf0729|010001a84fd0388c8dcf25bf4a25714bceaf61e687f7a04762041cb0360aef13dcf4ec"}
+{"level":30,"time":1727593221488,"pid":13458,"hostname":"Meghas-MacBook-Pro.local","msg":"Your wallet balance is: 0"}
+{"level":30,"time":1727593221488,"pid":13458,"hostname":"Meghas-MacBook-Pro.local","msg":"Waiting to receive tokens..."}
+{"level":30,"time":1727593221492,"pid":13458,"hostname":"Meghas-MacBook-Pro.local","msg":"Wallet scanned 0 blocks out of unknown number, transactions=0"}
+{"level":30,"time":1727593231730,"pid":13458,"hostname":"Meghas-MacBook-Pro.local","msg":"Wallet scanned 1049 blocks out of 33374, transactions=0"}
+{"level":30,"time":1727593242127,"pid":13458,"hostname":"Meghas-MacBook-Pro.local","msg":"Wallet scanned 2249 blocks out of 33374, transactions=0"}
+{"level":30,"time":1727593252184,"pid":13458,"hostname":"Meghas-MacBook-Pro.local","msg":"Wallet scanned 3399 blocks out of 33374, transactions=0"}
+{"level":30,"time":1727593262400,"pid":13458,"hostname":"Meghas-MacBook-Pro.local","msg":"Wallet scanned 4549 blocks out of 33374, transactions=0"}
+{"level":30,"time":1727593272745,"pid":13458,"hostname":"Meghas-MacBook-Pro.local","msg":"Wallet scanned 5699 blocks out of 33374, transactions=0"}
+{"level":30,"time":1727593283094,"pid":13458,"hostname":"Meghas-MacBook-Pro.local","msg":"Wallet scanned 6899 blocks out of 33374, transactions=0"}
+{"level":30,"time":1727593293170,"pid":13458,"hostname":"Meghas-MacBook-Pro.local","msg":"Wallet scanned 8049 blocks out of 33374, transactions=0"}
+{"level":30,"time":1727593303604,"pid":13458,"hostname":"Meghas-MacBook-Pro.local","msg":"Wallet scanned 9249 blocks out of 33374, transactions=0"}
+{"level":30,"time":1727593313663,"pid":13458,"hostname":"Meghas-MacBook-Pro.local","msg":"Wallet scanned 10349 blocks out of 33374, transactions=0"}
+{"level":30,"time":1727593323710,"pid":13458,"hostname":"Meghas-MacBook-Pro.local","msg":"Wallet scanned 11499 blocks out of 33374, transactions=0"}
+{"level":30,"time":1727593334082,"pid":13458,"hostname":"Meghas-MacBook-Pro.local","msg":"Wallet scanned 12699 blocks out of 33374, transactions=0"}
+{"level":30,"time":1727593344149,"pid":13458,"hostname":"Meghas-MacBook-Pro.local","msg":"Wallet scanned 13849 blocks out of 33374, transactions=0"}
+{"level":30,"time":1727593354478,"pid":13458,"hostname":"Meghas-MacBook-Pro.local","msg":"Wallet scanned 14999 blocks out of 33374, transactions=0"}
+{"level":30,"time":1727593364769,"pid":13458,"hostname":"Meghas-MacBook-Pro.local","msg":"Wallet scanned 16149 blocks out of 33374, transactions=0"}
+{"level":30,"time":1727593375011,"pid":13458,"hostname":"Meghas-MacBook-Pro.local","msg":"Wallet scanned 17299 blocks out of 33374, transactions=0"}
+{"level":30,"time":1727593385320,"pid":13458,"hostname":"Meghas-MacBook-Pro.local","msg":"Wallet scanned 18499 blocks out of 33374, transactions=0"}
+{"level":30,"time":1727593395447,"pid":13458,"hostname":"Meghas-MacBook-Pro.local","msg":"Wallet scanned 19649 blocks out of 33374, transactions=0"}
+{"level":30,"time":1727593405652,"pid":13458,"hostname":"Meghas-MacBook-Pro.local","msg":"Wallet scanned 20799 blocks out of 33374, transactions=0"}
+{"level":30,"time":1727593416076,"pid":13458,"hostname":"Meghas-MacBook-Pro.local","msg":"Wallet scanned 21999 blocks out of 33374, transactions=0"}
+{"level":30,"time":1727593426426,"pid":13458,"hostname":"Meghas-MacBook-Pro.local","msg":"Wallet scanned 23149 blocks out of 33374, transactions=0"}
+{"level":30,"time":1727593436791,"pid":13458,"hostname":"Meghas-MacBook-Pro.local","msg":"Wallet scanned 24349 blocks out of 33377, transactions=0"}
+{"level":30,"time":1727593447299,"pid":13458,"hostname":"Meghas-MacBook-Pro.local","msg":"Wallet scanned 25499 blocks out of 33377, transactions=0"}
+{"level":30,"time":1727593457535,"pid":13458,"hostname":"Meghas-MacBook-Pro.local","msg":"Wallet scanned 26649 blocks out of 33377, transactions=0"}
+{"level":30,"time":1727593467967,"pid":13458,"hostname":"Meghas-MacBook-Pro.local","msg":"Wallet scanned 27849 blocks out of 33380, transactions=0"}
+{"level":30,"time":1727593478177,"pid":13458,"hostname":"Meghas-MacBook-Pro.local","msg":"Wallet scanned 28999 blocks out of 33380, transactions=0"}
+{"level":30,"time":1727593488569,"pid":13458,"hostname":"Meghas-MacBook-Pro.local","msg":"Wallet scanned 30149 blocks out of 33380, transactions=0"}
+{"level":30,"time":1727593499000,"pid":13458,"hostname":"Meghas-MacBook-Pro.local","msg":"Wallet scanned 31299 blocks out of 33383, transactions=0"}
+{"level":30,"time":1727593509162,"pid":13458,"hostname":"Meghas-MacBook-Pro.local","msg":"Wallet scanned 32449 blocks out of 33383, transactions=0"}
+{"level":30,"time":1727593519417,"pid":13458,"hostname":"Meghas-MacBook-Pro.local","msg":"Wallet scanned 33386 blocks out of 33386, transactions=4"}
+{"level":30,"time":1727593519421,"pid":13458,"hostname":"Meghas-MacBook-Pro.local","msg":"Your wallet balance is: 20000000"}
+{"level":50,"time":1727593739086,"pid":13458,"hostname":"Meghas-MacBook-Pro.local","msg":"Found error 'Expected an input string with byte length of 35, got 32.'"}
+{"level":30,"time":1727593739097,"pid":13458,"hostname":"Meghas-MacBook-Pro.local","msg":"Exiting..."}
